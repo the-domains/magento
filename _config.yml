@@ -1,0 +1,28 @@
+name: Magento
+favicon: null
+layout_spectrum: 0.49271200015209615
+typography_spectrum: 0.7051738724112511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.34483452630229294
+  lightness: 0.5397475697100163
+  saturation: 0.49684446840547025
+  rhythmicContrast: 0.19948344258591533
+purpose: []
